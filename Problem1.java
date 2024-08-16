@@ -1,4 +1,4 @@
-//Time = O((m-n)n), m and n are length of Hay and needle
+//Time = O(m*n), m and n are length of Hay and needle
 //Space = O(1)
 
 class Solution {
